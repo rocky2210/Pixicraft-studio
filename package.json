@@ -9,8 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/rocky2210/pixicraft-studio.git"
-
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gifenc": "1.0.3",
