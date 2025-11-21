@@ -1,7 +1,7 @@
 // src/index.js
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './src/App.jsx';
+import App from './App.jsx';
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
