@@ -4,6 +4,8 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 export default defineConfig({
+  base: "/pixicraft-studio/",
+  
   server: {
     port: 3000,
     host: true,
